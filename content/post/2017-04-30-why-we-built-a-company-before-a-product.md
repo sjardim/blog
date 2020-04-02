@@ -1,14 +1,14 @@
 ---
 title: Why we built a company before building a product and why it worked
 date: 2017-04-30
-hero: /images/hero-6.jpg
-excerpt: Creating a new website for Hopper, one of the top 4 most downloaded travel apps in the U.S, along with Uber, Lyft.
+hero: "/images/hero-6.jpg"
+excerpt: Creating a new website for Hopper, one of the top 4 most downloaded travel
+  apps in the U.S, along with Uber, Lyft.
 timeToRead: 3
 authors:
-  - Thiago Costa
+- Thiago Costa
 
 ---
-
 Hello, world! This is a demo post for `hugo-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
 
 In my experience, the challenges that growing companies struggle with rarely stem from a lack of good ideas. Good ideas are everywhere.
@@ -20,6 +20,15 @@ In my experience, the challenges that growing companies struggle with rarely ste
 But it takes more than good ideas to build and grow a business. It takes people to bring them into reality. Are those people collaborating and sharing their expertise, or are they in conflict and keeping it to themselves?
 
 Do they have the resources necessary to execute on their ideas? Or are they constantly under pressure to pluck only the lowest-hanging fruit through bare minimum means, while putting their greatest ambitions on the back-burner?
+
+## Bureau Politique National
+
+|                                        |                           |
+|----------------------------------------|---------------------------|
+| Président                              | Dr. Hamidou Mamadou Abdou |
+| Secrétaire Général                     | Souley Illa               |
+| Présidente du Rassemblement des Femmes | Hadjia Aissa Yayé         |
+| Président du Rassemblement des Jeunes  | Abdourhamane Morou Maiga  |
 
 These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself.
 
